@@ -1,9 +1,14 @@
 .Home{
-    background-color: rgb(179,39,172);
-    display: flex;
-    justify-content: space-between;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
 }
 
-.Home p{
+.Feature{
+    height: 200px;
+    object-fit: cover;
 
 }
+
+.navvy{
+    position: fixed;
+}
+
